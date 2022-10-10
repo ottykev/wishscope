@@ -4,7 +4,7 @@
   "scope": "file",
   "type": "explore",
   "contentType": "text/tab-separated-values",
-  "toolUrl": "ddi_explore/index.html",
+  "toolUrl": "ddi_explore/http://142.93.79.63:8080/",
   "toolName": "explorer",
   "toolParameters": {
     "queryParameters": [
